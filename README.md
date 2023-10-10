@@ -1,3 +1,12 @@
+# **Contacto Autores**
+
+### **Hugo Cabana - 1136838263**
+### *Agustin Palacios - 1167063813*
+### *Jhonatan Curelich - 1126486047*
+### *Julio Sendra - 1167320577*
+
+
+
 # **Readme**
 
 ![img.png](img.png)
